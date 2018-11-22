@@ -3,5 +3,9 @@ name = "snowhouse"
 version = "0.1.0"
 authors = ["ZHAO Yijun <recursion@null.net>"]
 edition = "2018"
+description = "Snowhouse Object Storage"
+license = "Apache-2.0"
+homepage = "https://snowhouse.io"
+documentation = ""
 
 [dependencies]
