@@ -6,6 +6,6 @@ edition = "2018"
 description = "Snowhouse Object Storage"
 license = "Apache-2.0"
 homepage = "https://snowhouse.io"
-documentation = ""
+documentation = "https://docs.rs/snowhouse/"
 
 [dependencies]
